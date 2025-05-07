@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @orangutanbloke
-- 👀 I’m interested in game development
+- 👀 I’m interested in game development specifically enviroment and level structures.
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
